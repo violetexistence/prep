@@ -1,0 +1,7 @@
+**Sophonts:** Pepper,  Carolee Limits, GenerousGnat (GG), Ruberick, Harrison Jones, NoopGhoul, Dame Alice Finnson, Mia the Rose, IVIVI, cute nickname, reference to historical figure, a Link handle
+
+**Ships:** Bassoon, Glennys Jones, Gary Tobai, Fair Kaleen,\ Vanguard, Vanguard II, Katrine Lamont, Sharra's Gift, My Bess, Lacewing, Beauty of Bel, Gloucester, Donna Florenzia, Belcanto, Cornet, Glorious, Mandan Reef, Bailey's Reef, Seegan Reef, Adelie Reef, Rapier, Arbalest, Trebuchet, Warhammer, Scimitar
+
+**Businesses:** Clank, Aquamark, Supplyline, Spacemade, Calloware, Altair, NaviStella, Vexia, Sideros, Hyperstar, Xenopulse, Hylas, Maravento, Alzir, Voore, Gaia, Taishi, Kommandir, Bepop, Uniplex, Krafte, Kyoshi, Farbauti, Farflug, Astropost, Caravela, Seabite, Megamek, Uberfluss, Orme, Meritron, Corredor, Impakt, Urso f, Colonia, Etherus, Uranya, Arminade, OrionArms, RavenOps, Milspec Direct, Sentinel Solutions, Silver Star Defense, MenuMart, Servisource, Kitchn, Foodie, Royal Supply, Zest, TruVending, Real Eats, TruSpice, Kictronics, Artech, Digital Labs, Eyecom, Allin Parts, EZ Components, Nukeberry, Safefuel, Aion Industries, Moltencore, Fissile, Genchem, PWR, Controldyne, Wearinspace, Black Hole Fashion, Get Dressed, Off Duty, Out of this World Clothing, Off World Outfitter, Omni, Alpha Corporation, infinity, Zero Gravity Chic, On Point Garments, Heavy Hitters
+
+Languages: Lattice, Tinker, Clip

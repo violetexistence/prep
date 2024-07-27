@@ -1,0 +1,1 @@
+[ship] is boarded by pirates. [name] figure out a way to communicate with them and tries to negotiate for the crew's safety. The pirates insist on taking something the crew can't part with. 
