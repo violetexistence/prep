@@ -1,6 +1,8 @@
 # Agenda
 Make the future seem possible.
+
 Melt their hearts.
+
 Play to find out what happens.
 # Principles
 Paint everything like it's somewhere between 1977 and 1997.
