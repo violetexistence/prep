@@ -1,17 +1,23 @@
 # Agenda
-Make the far future seem real. \
-Melt their hearts. \
-Play to find out what happens.
+Make the far future seem real.\
+Melt their hearts.\
+Play to find out what happens.\
+
 # Principles
-Paint everything like it's somewhere between 1977 and 1997.\
+Paint it with cassette tapes, degauss CRTs, The Abyss (oil rig in space) but cozy.\\
+There are no villains, no big plot, no exploding planets.\
+Slice of life, personal.\
+The rougher the time, the gentler go.\
 Address yourself to the characters, not the players.\
-Lower the stakes but make it personal.\
+Small moments make a big difference.\
 Make your move, but never speak its name.\
-Make all species just a little bit human.\
+Relate to all sapient species on an emotional level.\
 Ask provocative questions and build on the answers.\
-Respond with pain, trauma, and something better on the other side.\
+Respond with the truth, even when it's awful.\
+Find hope, obstinately.\
 Be a fan of the players’ characters.\
-Sometimes, disclaim decision-making.
+Sometimes, disclaim decision-making.\
+
 # Moves
 Isolate them.\
 Bind them together.\

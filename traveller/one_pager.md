@@ -4,6 +4,8 @@ In session zero we will create/generate traveller characters together. There wil
 * You crew for the free trader, [ship].
 * You start on the [world] - [world] run. It's a safe and prosperous route, with plenty of commerce, and plenty of competition. Exciting opportunities exist on other routes for starships with upgraded jump drives.
 
-In this universe there are many sapient species. 
+In this universe there are many sapient species. Humans (we) are the newcomers to the community. Well built things work for different kinds of hands.
 
-There is faster than light travel.
+There is faster than light travel. Information does not travel any faster than the fastest ship.
+
+There is no space feudalism. We have a form of evolving bureaucratic capitalism. Once, it was bad for everyone except the few. Megacorporations ruled through a Trade Federation and private armies. We had a terrible war. It fell apart. From the ashes we decided to built it back different. We didn't keep everyone.
