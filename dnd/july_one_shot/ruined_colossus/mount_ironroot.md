@@ -1,0 +1,1 @@
+![[ruined_colossus.png]]

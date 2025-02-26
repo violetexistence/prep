@@ -1,1 +1,0 @@
-The crew of [ship] travel to [world] starport where they talk to their broker to find cargo. Dealing with the port authority is tricky. [name], the new hire, earns her keep navigating the paperwork. The crew connects with friends who help them find the things they need to keep [ship] running for another jump.

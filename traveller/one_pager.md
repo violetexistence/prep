@@ -9,3 +9,4 @@ In this universe there are many sapient species. Humans (we) are the newcomers t
 There is faster than light travel. Information does not travel any faster than the fastest ship.
 
 There is no space feudalism. We have a form of evolving bureaucratic capitalism. Once, it was bad for everyone except the few. Megacorporations ruled through a Trade Federation and private armies. We had a terrible war. It fell apart. From the ashes we decided to built it back different. We didn't keep everyone.
+

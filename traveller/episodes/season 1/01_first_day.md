@@ -22,4 +22,61 @@ How is your cabin/locker/state room decorated?
 [medic] 
 
 [steward]
+## Meet the Crew
 
+What special needs dietary/medical/other are accounted for in the ship's provisions, facilities, and arrangements made for the comfort of her crew?
+### Caro
+Tenar's birthday is going to pass during the next jump. What the message you want to send zer? Which birthday from when ze was a kid and ze lived with you does today remind you of?
+
+Who are you hoping to get a few more precious hours with before departing Port Coriol again?
+
+What is the appointment on your calendar you have been putting off and rescheduling?
+
+Stolen sculpture scandal?
+
+Archaeology and the alien artifact?
+### Blair
+
+### Doc
+What is the shift schedule/rotation for the crew when you're under way?
+What is your favorite game the crew likes to play, in which you are the current champion?
+Passengers
+### Phoebe
+### Tar
+What kind of mobility requirements are there for crew? What about passengers?
+
+What different kinds of messes need cleaning? Normal messes made by people and also oil spills and industrial messes?
+
+Departure
+	Systems Check
+		Greenlights
+	Cargo
+	Passengers
+		Cryo
+			Persimon
+		Standard
+			**Aria Fontaine** - Legal advisor for the Commerce Authority on NP.*
+			**Mikhail Petrov** - Director of Operations, Stellar Freight Corporation.*
+			**Lena Sorenson** - Environmental scientist, specializing in planetary ecosystems.
+			**Rhea Voss** - CEO of Celestial Horizons, a leading space tech company.
+			**Ambassador Felix Marrow** - Diplomatic envoy from the Hili Coalition.*
+	Navs
+		Compute
+		Flight Plan
+
+
+36
+40m
+30m
+20m
+
+Mera'vyn Starchime: Deputy Directory, SPA Customs Port Coriol.
+
+Repair Todo List
+* Tar, Glitchy Crane (difficult): Every time we have maintenance crews come in to look at it they can't repro.
+* Doc, Monitors (difficult) for Cryo Pods loses signal. Sometimes it comes back on by itself. It always comes back if the pod temp computer is reset.
+* ~~Blair, Coffee maker (easy) is complicated and the manual is translated from Hanto, badly.~~
+* Me, there's a control panel (very difficult) in the crew mess who's function is unknown or if anyone says they know what it does, they actually don't.
+* Phoebe, there's is a system alarm (routine) in main engineering that's too loud. Can we turn it down please? Thanks.
+* Caro, the lift has a shudder (average). It's embarrassing when passengers use it. It jiggles the garnishes off the desserts.
+* Customer, Mold in the shower passenger state room.
