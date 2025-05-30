@@ -1,0 +1,3 @@
+The Carry is a quiet phrase with many meanings. On the surface, it refers to the everyday burdens halflings shoulder without complaint—trays in the palace kitchens, ledgers in noble counting rooms, laundry baskets in **Bridgefront**. But to those who understand, it means something deeper: the invisible weight halflings bear to keep the city running, the emotional labor of smoothing over frayed tempers, the quiet endurance of those who nest in the margins of power.
+
+To say someone knows the Carry is a mark of respect. It means they do what needs doing, no matter who gets the credit. It means they show up, steady and unshaken, while the world leans just a little on their shoulders.

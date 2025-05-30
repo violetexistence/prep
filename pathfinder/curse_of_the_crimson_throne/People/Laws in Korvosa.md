@@ -1,0 +1,2 @@
+1. Bread Must Weigh True: All loaves sold in the market must weigh exactly what is promised. Otherwise, The baker forfeits the bread and their license. *No one is above the scales.*
+2. Nightsoil Curfew: No chamber pots may be emptied into the streets after sixth bell without a lantern and a cry of warning. *One yell of 'ware below or it's the bucket for you.*

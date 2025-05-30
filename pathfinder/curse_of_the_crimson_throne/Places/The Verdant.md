@@ -1,0 +1,3 @@
+You find Asai outside the Nursery, kneeling in the shade of a bloadleaf fig, sorting dried herbs into color-coded jars. Sunlight spills through the canopy in patches, dancing across the coppery coils of her hair. She's in her loose linen work-wraps, sleeves pushed up past the elbow, revealing forearms dusted with pollen and old ink-stained notes scrawled in margins along her skin.
+
+When she sees you, her face breaks into a grin—warm, surprised, easy.

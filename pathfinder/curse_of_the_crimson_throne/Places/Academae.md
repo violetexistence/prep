@@ -1,0 +1,9 @@
+The Acadamae does not belong to Korvosa. Not in the way a library or temple might. It exists behind black marble walls taller than most buildings in the city, sealed away on the rise of Citadel Crest, watching and watched. Outsiders are permitted only by necessity—contracted maintenance, food deliveries, or once a year, the Breaching Festival. Everything else is sealed behind arcane thresholds, infernal pacts, and faculty egos.  
+
+Founded in 4473 AR by Lord Ornelos to stake a Chelish claim on the mainland, the Acadamae has always walked a razor’s edge between prestige and peril. Its reputation stretches far beyond Varisia—pulling hopefuls from Cheliax, Geb, even distant Nex—but the truth is simpler and more brutal: the Acadamae will accept anyone with coin and courage. If you can’t survive the first year, someone else can always use your body. Necromancy students rarely want for cadavers.
+
+The school teaches all major arcane disciplines, but conjuration is the root and crown. Graduation is impossible without proving mastery of binding and summoning. It’s not enough to be clever. You have to command. You have to take what answers.
+
+Most who graduate apprentice themselves to senior faculty, gaining favor, recognition, and the occasional warded office of their own. The best of them live long enough to become instructors. The worst? They become part of the Acadamae’s rumor mill—a collection of ghosts, infernal accidents, and missing-person posters no one bothers to answer.
+
+The conjurers and the necromancers are locked in a quiet war. The rest of the halls try to pretend otherwise. Most of the time, the deaths can be explained away. The politics can’t.

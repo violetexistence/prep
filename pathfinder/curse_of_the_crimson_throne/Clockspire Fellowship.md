@@ -1,0 +1,3 @@
+A private society of gnomes, dwarves, and eccentric humans housed in an old watchtower converted into a multi-floor workshop and social club. Most members are engineers, historians, or artificers, and debates can last for days. Gnomes are welcomed for their insight, especially when the Fellowship needs someone to "think sideways."
+
+Known for: Mechanized art exhibitions, endless clocks, secret floor panels, and a heated (and ongoing) argument about how to fix the Academae's summoning protocol.

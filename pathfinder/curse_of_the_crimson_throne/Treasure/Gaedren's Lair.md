@@ -1,0 +1,16 @@
+- narrow teak cigar case inlaid with tiny bits of jade
+- 2-pound gold ingot bearing the Cheliax coat of arms
+- miniature gold crown
+- fist-sized scrimshaw of a kraken with garnets for eyes
+- silver ring bearing the inscription, "For Emmah--the light in my nights"
+- figurine of two entwined porno devils
+- masterwork shuriken
+- adamantine arrowhead
+- dagger with strange blade shaped almost like a key bearing the inscription, "For an inspiration of a father"
+- abalone shell holy symbol of Shelyn
+- corked glass bottle containing ruby red nectar
+- injector loaded w/ 5 doses of a violet colored milk
+- fluorite crystal glowing with strange phosphorescence
+- sealed ounce-sized glass jar containing silvery grease
+- copper tubes containing thick viscous oil
+- a key hanging from a silver chain, leads to [[Handwraps of the Relinquished Path]] [[Privateer’s Daughter]]

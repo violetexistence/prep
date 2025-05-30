@@ -1,0 +1,3 @@
+An informal bazaar nestled under a crumbling bridge, known for its warm lanterns, cozy food stalls, and hard-to-find oddities. It's a place where anyone with charm and creativity can set up shop--even if their stall ahas to hang from ropes or perch on a rooftop. Gnomes feel at home here among the chaos, especially those with love for cooking, stories, or barter.
+
+Known for: Unusual spices, handbound books, theatrical soapbox debates, and flame-roasted pear dumplings.

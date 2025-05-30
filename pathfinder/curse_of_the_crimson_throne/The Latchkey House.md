@@ -1,0 +1,3 @@
+An orphanage-turned-boardinghouse-turned-community center run by a retired gnomish thaumaturge and her human wife in [[North Point]]. Originally a shelter for lost or abandoned children of all ancestries, it now hosts educational workshops, story circles, and magical literacy classes.
+
+Known for: Kindness without condescension, lots of cozy blankets, experimental reading curricula, and a resident owlbear cub named Buttons (very tame, mostly).
