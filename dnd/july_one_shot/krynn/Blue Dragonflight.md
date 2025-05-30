@@ -10,5 +10,7 @@ At present, the Blue Dragonflight is working along with the [[Red Dragonflight]]
 [[Vorrithis]], the Sky-Sunderer.
 [[Syvrenyx]], the Tempest-Touched.
 
+[[Draconians]]
+
 [Dragon Vocalizations](https://www.youtube.com/watch?v=cd8JOfaTJVw&t=175s)
 ![[adult_blue_dragon_stats.png]]![[blue_dragon.png]]
