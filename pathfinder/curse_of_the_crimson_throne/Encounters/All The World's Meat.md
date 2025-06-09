@@ -2,10 +2,10 @@
 [[Orik Vancaskerkin]], older brother to Verik, strong role model, disappeared from [[Riddleport]] after fleeing a scandal.
 [[Meliya Arkona]], a [[Vudra|Vudrani]] guise used to manipulate Verik and the poor living in [[Old Korvosa]].
 [[Vimanda]], one of the leaders of [[House Arkona]]—actually a rakshasa—attempting to wrest control away from [[House Arabasti]].
-[[Baldrago]], grifter with a badge, shakedown artist, bushy eyebrows, large flat nose.
-[[Malder]], burned out bigot, wheezing mess, armor barely fits his ample frame.
-[[Parns]], career sadist, joined the Guard for licensed violence, broad shoulders, long sideburns
-[[Karralo]], the nice guy, enables the others, has a shiver addiction, thin and jittery.
+[[💰 Baldrago]], grifter with a badge, shakedown artist, bushy eyebrows, large flat nose.
+[[🗡 Malder]], burned out bigot, wheezing mess, armor barely fits his ample frame.
+[[🪚 Parns]], career sadist, joined the Guard for licensed violence, broad shoulders, long sideburns
+[[💉 Karralo]], the nice guy, enables the others, has a shiver addiction, thin and jittery.
 
 The previous owner of All the World’s Meat was arrested for tax evasion and soon thereafter dies in prison. His shop remained in escrow with the government for nearly a year, boarded over and empty until Vancaskerkin moved in. Verik has taken to sleeping in the small upstairs office. His four accomplices spend most of their time here as well, sleeping wherever they can find someplace comfortable.
 
@@ -33,7 +33,7 @@ Two guards stand at attention here: Baldrago (a tall man with bushy eyebrows tha
 At no time do the Cow Hammer Boys let anyone up to talk to Verik. The reason for this is simple—Verik doesn’t know about the renegade guards’ side business as hired muscle, and they worry that if he found out how they’ve been getting rid of the bodies, he’d do the same to them. If anyone attempts to push through them into the back room (or if anyone blatantly refuses to leave the shop after being old to do so), both Baldrago and Malder raise their longbows and call out to area B4 for help. They don’t attack first unless a PC successfully makes it further into the building. If a fight breaks out, the Cow Hammer Boys open with shots from their longbows, switching to melee only if their enemies close to do the same. A Cow Hammer Boy reduced to 4 or fewer hit points attempts to flee into the city, and if at least two are killed, the other abandon Verik and flee as soon as they see proof of the other two’s deaths.
 
 ```pf2e-stats
-# Cow Hammer Boys
+# Baldrago
 ## Creature 1
 ---
 ==medium== ==human== ==humanoid==
@@ -42,30 +42,74 @@ Perception +7; (8 to find concealed objects)
 
 Languages Taldane, some Varisian slang
 
-Skills Athletics +7, Intimidation +5, Legal Lore +3
+Skills Athletics +7, Deception + 5, Intimidation +5, Underworld Lore +4, Thievery +5
 
 Str +3, Dex +2, Con +2, Int +0, Wis +2, Cha -1
 
-Items crossbow, 10 bolts, nightstick, dagger, scale mail, signal whistle
+Items crossbow, 10 bolts, nightstick, sap, scale mail, signal whistle
 
 ---
 
 AC 16; Fort +7; Ref +5; Will +5
 
-HP 20
-
-Reactive Strike `[reaction]`
-
----
+HP 18
 
 Speed 25 feet
 
+---
+
+**Shakedown** `[reaction]` **Trigger** An off-guard creature within 10 feet is damaged; **Effect** Baldrago uses their distress to steal a free Interact action --OR-- may attempt to **Demoralize** that creature, if they are an enemy.
+
+**Cheap Shot** `[free-action]` **Trigger** Baldrago hits an off-guard creature and deals damage; **Frequency** Once every 10 minutes; **Effect** Baldrago applies one of the following conditions, which lasts until the end of his next turn.
+	- Debilitation The target takes a -10-foot status penalty to its Speeds.
+	- Debilitation The target becomes enfeebled 1.
+
 Melee `[one-action]` nightstick +7 (+3/-1) (agile, finesse, nonlethal, parry), Damage 1d4+3 bludgeoning
 
-Melee `[one-action]` dagger +7 (+3/-1) (agile, finesse, thrown 10 feet., versatile), Damage 1d4+3 piercing or slashing
+Melee `[one-action]` sap +7 (+3/-1) (agile, nonlethal), Damage 1d6 bludgeoning
 
 Ranged `[one-action]` crossbow +6 (+1/-4) (range increment 120 feet, reload 1), Damage 1d8 piercing
 ```
+
+```pf2e-stats
+# Malder
+## Creature 1
+---
+==medium== ==human== ==humanoid==
+
+Perception +7; (8 to find concealed objects)
+
+Languages Taldane, some Varisian slang
+
+Skills Athletics +7, Intimidation +6, Legal Lore +4, Religion +3
+
+Str +3, Dex +2, Con +2, Int +0, Wis +2, Cha -1
+
+Items crossbow, 10 bolts, nightstick, sap, scale mail, signal whistle
+
+---
+
+AC 16; Fort +7; Ref +5; Will +5
+
+HP 22
+
+Speed 25 feet
+
+**Intimidating Prowess** Uses Strength instead of Charisma on Intimidation checks.
+
+---
+
+**Punishing Glare** `[reaction]` **Trigger** A creature within 30 feet Malder can see targets Malder's ally; **Effect** That creature must make a **DC 15 Will save** or become **Frightened 1**.
+
+**Hammer of Judgement** `[two-actions]` Malder makes a Strike with his nightstick; if it hits a creature already frightened, it becomes slowed 1 until the end of its next turn.
+
+Melee `[one-action]` nightstick +7 (+3/-1) (agile, finesse, nonlethal, parry), Damage 1d4+3 bludgeoning
+
+Melee `[one-action]` dagger +7 (+3/-1) (agile, finesse, thrown 10 ft, versatile), Damage 1d4 piercing or slashing
+
+Ranged `[one-action]` crossbow +6 (+1/-4) (range increment 120 feet, reload 1), Damage 1d8 piercing
+```
+
 
 > [!NOTE] ==B3== Meat Locker
 > The air in this room is stale, stinking of day-old meat and blood. Straw litters the floor, scattered to catch the drips from the meat as it hangs. Meat hooks are affixed to the walls and ceiling on metal rods. To the north is a low blood-stained table and two barrels of salt, while double doors stand in the wall to the south. An iron bar extends through a narrow hole at the top of the doors; the bar runs along the ceiling for five feet before ending at a vertical pole running floor to ceiling.
@@ -83,6 +127,80 @@ The rusty grating in the southwest corner can be bashed through or pried up out 
 During the day, there’s a 75% chance of encountering the remaining two Cow Hammer Boys here. Parns, a broad shouldered man with long sideburns, worked as a butcher before joining the Guard and meeting Verik; his skills made him the key recruit to Verik’s plan. Parns welcomed the opportunity since the Korvosan Guard simply wasn’t as exciting a job as he’d hoped. Now his job as a butcher and mercenary provides a perfect outlet for his sadism. The other man found here is Karralo, a thin and jittery man with a sallow complexion. Of the four renegades, Karralo is the most unsure—he doesn’t mind beating up folk for money, but butchering them to dispose of the evidence has made him increasingly nervous.
 
 If Parns and Karralo aren’t here during the day, they’re instead in area B5 or B6 tending to the day’s livestock. For several hours after sunset, the two are busy butchering animals in here. When victims of their mercenary work arrive, the unfortunates are smuggled into this room already unconscious or dead and wrapped in sacks. Parns particularly enjoys butchering humans, but Karralo has increasingly begged off this duty. Such grisly work typically takes place after midnight, but doesn’t occur every day—usually the renegades “process” three or four victims a week in this manner.
+
+```pf2e-stats
+# Parns
+## Creature 1
+---
+==medium== ==human== ==humanoid==
+
+Perception +7; (8 to find concealed objects)
+
+Languages Taldane, some Varisian slang
+
+Skills Athletics +7, Intimidation +4, Legal Lore +4
+
+Str +4, Dex +2, Con +2, Int +0, Wis +2, Cha -2
+
+Items crossbow, 10 bolts, nightstick, sap, scale mail, signal whistle
+
+---
+
+AC 16; Fort +7; Ref +5; Will +5
+
+HP 22
+
+Speed 25 feet
+
+---
+
+**Brutal Cleaver** `[reaction]` **Trigger** A creature within reach is reduced to 0 HP; **Effect** Parns gains a +1 status bonus to damage for 1 round.
+
+**Severing Blow** `[one-action]` Once per day, if Parns scores a critical hit, the target takes 1d4 persistent bleed (DC 15 flat check).
+
+Melee `[one-action]` cleaver +8 (+3/-1) (sweep), Damage 1d8+4 slashing
+
+Melee `[one-action]` dagger +8 (+4/-1) (agile, finesse, thrown 10 ft, versatile), Damage 1d4 piercing or slashing
+
+Ranged `[one-action]` crossbow +6 (+1/-4) (range increment 120 feet, reload 1), Damage 1d8 piercing
+```
+
+```pf2e-stats
+# Karralo
+## Creature 1
+---
+==medium== ==human== ==humanoid==
+
+Perception +7; (8 to find concealed objects)
+
+Languages Taldane, some Varisian slang
+
+Skills Athletics +5, Deception +3, Intimidation +3, Legal Lore +3, Stealth +6
+
+Str +2, Dex +3, Con +2, Int +0, Wis +2, Cha 0
+
+Items crossbow, 10 bolts, garrote, nightstick, scale mail, signal whistle
+
+---
+
+AC 16; Fort +7; Ref +5; Will +5
+
+HP 18
+
+Speed 25 feet
+
+---
+
+Cover for Them `[reaction]` **Trigger** An ally fails a Deception, Stealth or Feint check; **Effect** Karralo assists with a +1 bonus (even if not normally able), but becomes flat-footed until the start of his next turn.
+
+**Bag of Tricks** `[one-action]` Once per day, produces a minor alchemical item.
+
+Melee `[one-action]` nightstick +6 (+2/-2) (agile, finesse, nonlethal, parry), Damage 1d4+3 bludgeoning
+
+Melee `[one-action]` garrote +6 (+2/-2) (agile, backstabber, deadly d8, finesse, grapple), 1d4 slashing 
+
+Ranged `[one-action]` crossbow +6 (+1/-4) (range increment 120 feet, reload 1), Damage 1d8 piercing
+```
 
 Characters who choose to investigate the sewer tunnel below are quickly attacked by the three reefclaws that have moved in. The spiny aberrations are the only reason the room hasn’t overflowed and the drainage hasn’t clogged, but even then, the monsters are barely keeping up with the grisly offerings. Well-fed, the creatures attack only if they think intruders are attempting to steal their food—by searching through the remains.
 

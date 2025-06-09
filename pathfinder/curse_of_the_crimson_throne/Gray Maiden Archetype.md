@@ -50,20 +50,23 @@ Her voice echoes through your memories, creating new meaning. Her will is certai
 ```
 
 ```pf2e-stats
-# Reactive Shield `[reaction]`
+# Chosen Amulet
 ## Feat 4
 ---
-==fighter==
+==archetype==
 
 **Archetype** Gray Maiden
 
-**Requirements** You are wielding a shield
-
-*This version of the Reactive Shield feat is intended for use with an Archetype and has a different level for access the the original feat.
+**Prerequisites** Gray Maiden Dedication; Performed a service meaningful to the Queen personally.
 
 ---
 
-You can snap your shield into place just as you would take a blow, avoiding the hit at the last second. You immediately use the Raise a Shield action and gain your shield's bonus to AC. The circumstance bonus from the shield applies to your AC when you're determining the outcome of the triggering attack.
+The Queen herself bestows upon you a lacquer-crimson amulet inset with the three-tiered crown of House Arabasti. Few Maidens earn such a mark; fewer still live long enough to wear it. While the amulet hangs at your throat, you are set apart--both feared and favored. If you invest it, you gain a **+1 item bonus to Intimidation**. The symbol casts a dim crimson light in a 20-foot emanation.
+
+**Activate** `[two-actions]` **Envision**
+==concentrate== ==light== ==revelation==
+	
+**Frequency** once per day; **Effect** The light cast by the amulet becomes bright light for 10 minutes and shines through flesh to reveal faithless traitors. Creatures in the light receive a **-1 status penalty to Deception and Stealth** checks. You can Dismiss this activation.
 
 ```
 
@@ -234,35 +237,37 @@ You plant the battle standard of the Queen, declaring her absolute authority, an
 	**Failure** You fail to enter the stance.
 	**Critical Failure** You fail to enter the stance and can't take this action again for 1 minute.
 
-While in this stance, your the **status bonus** gained by your aura against fear effects **increases to +2**.
+While in this stance, your the status bonus gained by your **aura against fear effects increases to +2**.
 ```
 
 ```pf2e-stats
-# Legatine
+# Velsdarker
 ## Feat 10
 ---
-==archetype==
+==archetype== ==focus==
 
 **Archetype** Sister Superior
 
-**Prerequisites** Sister Superior Dedication
+**Prerequisites** Sister Superior Dedication; Promotion by the Queen.
 
 ---
 
-You are no longer merely a soldier or sister--your are Her judgement made flesh. Where you walk, there is silence. Where you strike, there is no doubt.
+You are a word bearer for the Queen. Where you walk, there is silence. Where you strike, there is no doubt. Sisters Velsdarker serve as officers in the Gray Maiden First Company, deployed only in situations where the Queen wishes to ensure her will is emphasized. They are otherwise kept close to Castle Korvosa guarding the royal house.
 
-**Crown of Obedience** When you critically succeed on a Will save, you regain 1 Focus Point (if you have a focus pool) or 1 Harrow Point, and your melee Strikes deal +1 damage per weapon die until the end of your next turn.
+**Crown of Obedience** When you critically succeed on a Will save, you regain 1 Focus Point and your melee Strikes deal +1 damage per weapon die until the end of your next turn.
 
-**Voice of the Queen** `[one-action]` ==auditory== ==emotion== Your actions speak with Her authority. You can issue a Divine Command to a single creature within 30 feet who can hear you and understands a language. The target must attempt a Will save against your class DC or spell DC (choose one when you take this feat).
+**Voice of the Queen** `[two-actions]` **Focus 1**
+==auditory== ==concentrate== ==linguistic== ==mental== 
+	You issue a **Command** to a single creature within 30 feet. You can command the target to approach you, run away (as if it had the fleeing condition), release what it's holding, drop prone, or stand in place. The target must attempt a Will save against your class DC.
 	**Critical Success** The target is unaffected.
 	**Success** The target is Frightened 1.
-	**Failure** The target Frightened 2 and must Step away from your immedicately as a reaction.
-	**Critical Failure** The target Frightened 3, Stunned 1, and drops any held object of your choice.
+	**Failure** The target Frightened 1 and must spend the first action on its next turn to obey your command.
+	**Critical Failure** The target is Frightened 1 and must use all its actions on its next turn to object your command.
 
 ```
 
 ```pf2e-stats
-# Only Death Absolves
+# Deny the Gray Lady
 ## Feat 10
 ---
 ==archetype==
@@ -273,6 +278,6 @@ You are no longer merely a soldier or sister--your are Her judgement made flesh.
 
 ---
 
-You no longer fall unconscious at 0 HP. Instead, the first time per day you would be reduced to 0 HP, you may choose to remain at 1 HP and become Doomed 1. If you already have the Doomed condition, it increases by 1 instead. This cannot prevent your death if Doomed 4 or greater.
+You no longer fall unconscious at 0 HP. Instead, the first time per day you would be reduced to 0 HP, you may choose to remain at 1 HP, gain temporary HP equal to your level, and become Doomed 1. If you already have the Doomed condition, it increases by 1 instead. This cannot prevent your death if Doomed 4 or greater. After using this feat you may Stride up to your speed or make a Strike as a free action.
 
 ```
