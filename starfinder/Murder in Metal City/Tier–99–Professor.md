@@ -1,0 +1,4 @@
+![[Tier-99-Professor.png]]
+Fondly called Tierny (eccentric agender anacite technomancer) by their close colleagues and friends, Tier-99-Professor was a respected anacite scholar who specialized in technologies built by the First Ones, the ancient progenitor culture of the anacite species. Until their recent death after an unexpected shutdown caused by foul play, they worked at Striving Polytechnica, where they earned their reputation as one of the most respected and accomplished experts in their field. 
+
+**Special:** Tierny mentored countless students, visitors, and fresh colleagues over their long years at Polytechnica’s Archives. Posthumously, a message reached some of their allies and called for their help.
