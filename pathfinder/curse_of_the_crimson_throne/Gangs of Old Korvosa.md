@@ -2,4 +2,4 @@
 [[King of Spiders]]
 [[Catsdew Lofties]]
 [[Cerulean Society]]
-[[Gaedren's Little Lamms]]
+[[Gaedren's Lamms]]

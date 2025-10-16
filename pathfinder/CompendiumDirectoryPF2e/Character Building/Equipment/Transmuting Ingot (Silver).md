@@ -1,0 +1,33 @@
+---
+obsidianUIMode: preview
+title: "Transmuting Ingot (Silver)"
+cssclasses: pf2e,pf2e-spell
+tags:
+  - trait/consumable
+  - trait/magical
+  - trait/whetstone
+  - trait/common
+  - category/other
+  - remaster
+aliases: "Compendium.pf2e.equipment-srd.Item.UpTnJeRbeviJNAFA"
+license: ORC
+---
+# Transmuting Ingot (Silver)
+## Item 1
+### [[consumable]][[magical]][[whetstone]]
+
+**Category** other; 
+**Price** 3 gp; 
+**Bulk** L; **Size** med
+**Usage** held-in-one-hand
+
+**Activate** `pf2:1` (manipulate)
+
+* * *
+
+A miniature ingot of metal hangs upon a leather cord, with deep weapon grooves on its surface. A weapon it's applied to counts as silver for physical damage it deals for 1 minute, depending on its type.
+
+[[Equipment Effects/Effect_ Transmuting Ingot|Effect: Transmuting Ingot]]
+
+*Source: Pathfinder Battlecry!*
+*ORC*

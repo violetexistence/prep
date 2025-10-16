@@ -3,7 +3,7 @@
 [[Meliya Arkona]], a [[Vudra|Vudrani]] guise used to manipulate Verik and the poor living in [[Old Korvosa]].
 [[Vimanda]], one of the leaders of [[House Arkona]]—actually a rakshasa—attempting to wrest control away from [[House Arabasti]].
 [[💰 Baldrago]], grifter with a badge, shakedown artist, bushy eyebrows, large flat nose.
-[[🗡 Malder]], burned out bigot, wheezing mess, armor barely fits his ample frame.
+	[[🗡 Malder]], burned out bigot, wheezing mess, armor barely fits his ample frame.
 [[🪚 Parns]], career sadist, joined the Guard for licensed violence, broad shoulders, long sideburns
 [[💉 Karralo]], the nice guy, enables the others, has a shiver addiction, thin and jittery.
 

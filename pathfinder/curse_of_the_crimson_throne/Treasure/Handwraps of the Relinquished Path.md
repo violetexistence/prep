@@ -5,15 +5,21 @@
 ---
 
 ==Uncommon== ==Invested== ==Magical==
-**Usage** worn gloves; Bulk --
+**Usage** worn gloves; Bulk L
+**Weapon Group** Brawling
 **Base Weapon** Fist
 
 ---
 
-These handwraps function as +1 handwraps of mighty blows, granting a +1 item bonus to unarmed attack rolls and allowing unarmed strikes to benefit from property runes or talismans.
+As you invest these embroidered strips of cloth, you must slowly wrap them around your hands, and remember all the things you swore to never do again. These handwraps have runes etched into them, making your unarmed attacks work like magic weapons. Specifically, they are etched with weapon potency runes, granting your unarmed attack rolls a +1 item bonus. 
+
+You can upgrade, add, and transfer rune to and from the handwraps just as you would a weapon, and you can attach talismans to the handwraps.
+
+---
 
 **Description** faded linen bearing a soft, spiraled embroidery--sea-green and faded red--evoking emotion, memory, and regret. Sewn into the interior wrist seam is a single, deliberate stitch, knotted in the shape of a closed eye.
 ```
+
 ```pf2e-stats
 # Last Stitch
 ## Item 2

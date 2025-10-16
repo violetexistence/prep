@@ -56,9 +56,9 @@
 [[3 - Anacite Habits]]
 
 ## Evidence Tracker
-- [ ] The PCs recovered the [[old datapad]]
-- [ ] The PCs recovered the [[wrecked drone]]
-- [ ] The PCs learned that someone cast *slice reality* to kill Tierny
+- [x] The PCs recovered the [[old datapad]]
+- [x] The PCs recovered the [[wrecked drone]]
+- [x] The PCs learned that someone cast *slice reality* to kill Tierny
 - [ ] The PCs learned about Tierny’s queries
 - [ ] The PCs discovered the Mechanizers’ mission briefing
 - [ ] The PCs learned of the security forces’ “glitch”
