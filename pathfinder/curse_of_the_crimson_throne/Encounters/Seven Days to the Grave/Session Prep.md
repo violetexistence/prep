@@ -1,0 +1,22 @@
+# Scenes
+- Rise of the Gray Maidens
+	- They are still few in number.
+	- Not an antagonist yet, more regrettable necessity
+- Takeover of Longacre
+	- arbiters protest and are relieved of duty. 
+	- Gray Maidens and PCs (if aligned) are given control of the structure to fight the outbreak.
+- Purging the Sewers
+	- Ysoki (ratfolk) are targeted by mobs.
+	- Bounty on Otyughs (largely ineffective)
+	- Eries the Ysoki reaches out to make peace, betrays her cousin the firebrand Girrigz.
+- The Color of Death
+	- Someone who is close to one of the PCs refuses to isolate since they are convinced they have obtained an exclusive cure from the perfumer, Lavender.
+	- They will not be convinced otherwise without hard proof.
+- The Hungry Dead
+	- The dead start to pile up. Bank of Abadar offers discounts on healing to plague carters.
+	- Scammers are caught taking the discounts but dumping the bodies short of the Gray. Kroft is informed that the Maidens have a list of alleged scammer they plan to arrest and execute to make an example. The Field Marshal asks the PCs to investigate Rackers Alley to resolve the situation before the Gray Maidens have the chance to act.
+- The Case of the Vanishing Virtuoso
+	- Carowyns are big patrons of the arts and socialites in South Shore. 
+	- Olauren Carowyn should be a rival to the Baroness. Maybe it’s pretty well known that Madame Carowyn feels like the title should pass to her. Francesca for her part sees the Carowyns for what they are—exploitative opportunists—and quietly prevents their influence from reaching the crown.
+	- Deyanira Mirukova’s brother Ruan is latest ingenue to be pulled into the limelight by the Carowyns. Deyanira is a chorus singer at the Marbledome. Ruan plays the ocarina in the orchestra. Both actually made their way up working at Exemplary Execrables. In fact, Olauren paid Pilts a tidy sum to give them up.
+	- When Ruan goes missing after attending a gala at Carowyn Manor, Deyanira tries to investigate herself but is too scared by what she finds to enter the manor. If the PCs are closer to an NPC in the Guard, such as Verik Vancaskerkin, he brings her case up to them. If they are closer to someone in the arts, such as Salvatore Scream, then go with that.
