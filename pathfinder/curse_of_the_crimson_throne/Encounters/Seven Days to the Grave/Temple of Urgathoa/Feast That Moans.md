@@ -1,0 +1,1 @@
+While under this effect, indulgence comes easy and every movement feels like sin wrapped in silk. You gain the benefits of the [[Consecrate]] ritual, and your body moves with decadent freedom — you gain the effects of _unfettered movement_ (rank 4).

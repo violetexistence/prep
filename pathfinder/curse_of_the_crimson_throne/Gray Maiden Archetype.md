@@ -6,28 +6,16 @@
 
 **Archetype** Gray Maiden
 
-**Prerequisites** trained in heavy armor; trained in intimidation 
-
-**Access** You are from Korvosa and femme.
+**Prerequisites** +3 Strength; trained with martial weapons; trained in heavy armor
 
 ---
 
-After passing the Queen's personal examination for strength and beauty, and then enduring a grueling initiation process, you were inducted into a military sisterhood loyal only to her.
+You were recruited from among the strongest and most beautiful warriors to serve in a military sisterhood loyal only to the Queen. You gain expert level proficiency in Will saving throws. You become trained in Lore (Warfare) and if you are already trained in this lore, your proficiency is raised to expert level.
 
-**Conditioned** You are the product of indoctrination, repetition, and trauma-bound loyalty. Your psyche is rigidly fortified—enshrining the code of the sisterhood. The parts you consciously remember are listed below. There is at least one secret edict or anathema.
-	**Edicts**
-	- Serve the Queen's will without question or hesitation.
-	- Obey the orders of sisters superior.
-	**Anathema** 
-	- Acting in ways that distinguish you from your sisters.
-	- Undermine the cohesion of the sisterhood.
-
-	**Effect** While conditioned, you gain the following benefits and flaws.
-	- You **become trained in Will saves**; if you were already trained, you **become an expert** instead.
-	- When you attempt to act against the code, you must attempt a **DC 5 flat check** to complete the action. Failure means you hesitate (lose the action). You can try again on your next turn. 
-	- You do not dream.
-
-**Tactics** In addition, you become trained in Warfare Lore; if you were already trained, you become an expert instead.
+**Conditioned** You endured a grueling intiation process during which you were indoctrinated using repetition and trauma-bound loyalty. Your psyche is rigidly fortified—enshrining the code of the sisterhood. The parts you consciously remember are listed below. There is at least one secret edict or anathema.
+	**Edicts** Serve the Queen's without question or hesitation, obey the orders of your sisters superior.
+	**Anathema** Acting in ways that distinguish you from your sisters, undermine cohesion within the sisterhood.
+	**Effect** You do not dream. When you succeed on a Will saving throw agaist any mental effect that would cause you to act against your conditioning, you get a critical success instead.
 
 **Special** You can't select another dedication feat until you have gained two other feats from the Gray Maiden archetype.
 

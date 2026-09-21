@@ -1,0 +1,9 @@
+It seems fate has rolled a nat 20 to determine the fortune of Aleshka, Varisian blood healer in Bridgefront. On a roll of 1-4, she would have been targeted by Gray Maiden patrols and either arrested, injured, or both. However, nat 20. What wild twist of fate could actually see her moving up? Is she now part of some kind of underground Varisian hit squad? Has she joined up with Scarzi gangs and going on the offense? Is she maybe quietly the most dangerous thing on the streets of Old Korvosa for the Queen’s pawns? Or, maybe she is targeting Red Mantis assassins? Hmmm the possibilities seem all very interesting. Thoughts?
+
+You find Aleshka’s house in the Shingles abandoned. Odd to find such a valuable space unused in this neighborhood, but then—it doesn’t look to have been vacant long. Nearby residents are reluctant to speak to those they don’t know, but our oracle incognita and the old narrows runner remember how to *cant* down under the tarline. Your typical cleric from Citadel Crest comes down here coated in honey—tries too hard. Most end up getting fleeced, or worse… The secret to the *cant* is simple: remember the truth, but don’t say it—know it. Tarliners scratch out a life, but it’s less like living and more like surviving. You find out where they’re vulnerable and you press.
+
+Krrt… krrt… coo…
+
+That sound almost passes for a raven, but a human voice… a very cracked and broken human comes from somewhere close by, while all around the silence is deafening. The ironworks are still and all around you loom the quiet monoliths of the once booming forges. Instead of steel wares, wards and charms hand from chains along the assembly line. Aleshka has made herself at home here and placed a warning to living and welcome mat to certain spirits of the dead.
+
+You find her putting stitches into a patch over a tear in a Korvosan Guard uniform. 

@@ -31,3 +31,5 @@
 > Several shallow cubbies and narrow wooden lockers line the walls of this modest workroom, each tagged with faded labels—*linens*, *tonics*, *coal*, *bandages*. A scarred table sits in the center of the room, surrounded by mismatched chairs that have clearly hosted many hurried meals and exhausted conversations. The air smells faintly of boiled herbs, soap, and old wood.
 > 
 > Against the far wall stands a large, well-maintained cargo lift, its platform reinforced with iron brackets and its rails disappearing upward into the ceiling. Though utilitarian, it has been kept in careful repair—clearly relied upon to move patients, supplies, and cots between floors without strain. A small chalkboard nearby lists lift priorities in a tidy hand: *Water*, *Clean Bedding*, *Patients Unable to Walk*.
+
+## F5. 

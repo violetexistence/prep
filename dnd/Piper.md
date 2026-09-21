@@ -1,0 +1,19 @@
+Hiya! Piper here!
+
+I was raised as a ward in a church here in Termalaine. I don’t know who my birth parents were but my REAL dad is a priest. I guess that makes him a father and a Father? He taught me all the most important stuff about how the universe works. For example, we worship Lathander—he’s this big beautiful babe who makes the dawn—anyway, I learned quickly that if I wanted to feel the light of His love and acceptance (and I SO DO by the way), I needed to be GOOD. I know what you’re thinking <CRINGE!>, but hear me out okay. Good isn’t just some abstract thing with The Morninglord. He spells it out… in books. You can look it up. There’s edicts, anathema, and everything. I did and I followed the instructions and you can too!
+
+When I was younger, I went to work with my dad. We performed rituals, blessing, auguries, you name it. We even helped heal sick people. It was awesome. When I got older though, my body changed, and that kinda made things… well difficult. People started asking questions about me. Questions we didn’t have answers to like, “…where is this girl from anyways?” and “…damn Father, can you summon me up a girlfriend too?” I don’t really know what they meant, but I could tell dad was worried for me. One day, he just asked me to stay at the church when we went off to make house calls. There was no shortage of chores to do there. I guess that’s how I kinda became the unofficial groundkeeper.
+
+I didn’t mind the work. It was quiet and it left me lots of time to study! 
+
+Okay, so like, TANGENT!
+
+Here’s the thing about Faerun: everybody acts like history is just this boring list of “and then some king did a thing,” but it’s actually totally connected to arcana because magic isn’t just sparkles—it’s basically the infrastructure of the world. Like, the Weave? That’s the whole reason wizards even exist. They’re out here acting like the Weave is a personal spreadsheet they can balance if they just study harder, and then they act all smug about “discipline” while reality is basically one frayed thread away from turning your whole day into a crater. And yes, I know the Weave is this elegant, invisible lattice that makes arcana possible, and I love that for it, truly—but my relationship with it is… more spiritual. Like, when I reach for power, I’m not doing math, I’m connecting. I’m asking for light, for warmth, for renewal—mmm Morninglord vibes—because that’s what I feel when it works: sunrise in my veins, shadows backing off, second chances!
+
+So obviously, I couldn’t just stay isolated forever. I needed connection. I tried everything I could think of to convince my father to let me work in the community again, but nothing worked. Total Banishment. So I prayed, 
+
+and prayed—and not gonna lie, mass cure munchies was involved—until one day, he answered. Or, she, actually.
+
+Then, one day, her prayers were answered. One of the spirits in the graveyard behind the church was in trouble. and it called out to Piper during her chores. "I need your help, child... I'm sooo cold. Be a dear and fetch me a blanket." Surprised but excited to be of use, she embarked on this quest and then many others in service to the spirit of Mrs. Tibs. 
+
+Father had a few questions, but we explained everything. You see, The Morninglord heard my prayers and sent an angel to help me learn the secrets of divine magic and I'm very useful now. I would be helping with rituals right now if it wasn't for the damn Frostmaiden coming along ruining everything. The townsfolk aren't worshiping Lathander much any more on account of things going all perma sunsetty. Father can't afford to keep an acolyte and just like that I'm out of job.

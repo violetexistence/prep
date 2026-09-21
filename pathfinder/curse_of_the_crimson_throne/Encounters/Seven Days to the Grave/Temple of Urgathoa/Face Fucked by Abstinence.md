@@ -1,0 +1,1 @@
+**Face Fucked by Abstinence** While under this effect, the world is painfully bright, painfully loud, and painfully empty. Every breath tastes like denial. You take the anathema penalties of a rank 2 [[Consecrate]] ritual, and creatures and objects beyond 15 feet are *concealed* to you if sight is your only precise sense.
